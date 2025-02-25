@@ -1,28 +1,47 @@
 {
-  "expo": {
-    "name": "SwapWise",
-    "slug": "SwapWise",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
+  "name": "SwapWise",
+  "slug": "SwapWise",
+  "scheme": "swapwise",
+  "plugins": [
+    "@react-native-google-signin/google-signin",
+    "expo-router"
+  ],
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "userInterfaceStyle": "light",
+  "newArchEnabled": true,
+  "splash": {
+    "image": "./assets/splash-icon.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "googleServicesFile": "./google-services.json",
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
+    "package": "com.yoonlimin.SwapWise"
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "cf146511-23ff-4910-b723-f45f74e6585b"
     },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "router": {
+      "origin": false
     }
-  }
+  },
+  "sdkVersion": "52.0.0",
+  "platforms": [
+    "ios",
+    "android",
+    "web"
+  ]
 }

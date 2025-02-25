@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63070857564",
+    "project_id": "swapwise2-4e2b6",
+    "storage_bucket": "swapwise2-4e2b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63070857564:android:e1bb89aa66414ed076f999",
+        "android_client_info": {
+          "package_name": "com.yoonlimin.SwapWise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63070857564-d689hqvnj2potfcgkva6bvaelena6pgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yoonlimin.SwapWise",
+            "certificate_hash": "a7506198bc04ec8fe56f1d0d8706b6e43f70c23d"
+          }
+        },
+        {
+          "client_id": "63070857564-eusjjimt9u04i8qbqshddqv8ul2dkvq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yoonlimin.SwapWise",
+            "certificate_hash": "bc7dc627471b325850607ed70e4eec72be62aef9"
+          }
+        },
+        {
+          "client_id": "63070857564-g8qffvo2cvooi931q8kb7h573gmgm1f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJqWSblpbUUA00FWBKeqXHTUtY2OHOMC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63070857564-g8qffvo2cvooi931q8kb7h573gmgm1f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
