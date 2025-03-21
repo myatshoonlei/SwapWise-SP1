@@ -2,31 +2,41 @@
 
 ### 1️⃣ Clone the Repository
 Run the following command in your terminal:
-\`\`\`bash
+```bash
 git clone https://github.com/myatshoonlei/SwapWise-SP1.git
-\`\`\`
+```
 
 ### 2️⃣ Navigate into the Project Directory
-\`\`\`bash
+```bash
 cd SwapWise-SP1
-\`\`\`
+```
 
 ### 3️⃣ Install Dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 4️⃣ Start the Project
-\`\`\`bash
+```bash
 npx expo start
-\`\`\`
+```
 *(Make sure you have **Expo CLI** installed: \`npm install -g expo-cli\`)*
+
+## 🛠️ Troubleshooting / Setup Fix  
+If you're facing dependency or swiper-related issues, follow these steps:  
+
+```bash
+npm install --legacy-peer-deps
+npm uninstall react-native-deck-swiper react-native-view-overflow --legacy-peer-deps
+npm install react-native-deck-swiper
+npx expo start --clear 
+```
 
 ---
 
-## 📱 APK Download  
+## 📱 APK Download
 You can directly download the **APK** from this link:  
-📥 [Download SwapWise APK] (https://drive.google.com/file/d/18MuoVflwoCze_l47GFF-EaHCgJqCjyPR/view)
+📥 [Download SwapWise APK](https://drive.google.com/file/d/18MuoVflwoCze_l47GFF-EaHCgJqCjyPR/view)
 
 ---
 
