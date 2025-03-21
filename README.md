@@ -43,6 +43,6 @@ You can directly download the **APK** from this link:
 - 🔔 **Expo Push Notifications** – Stay updated with new matches & meetings  
 
 ## 🤝 Contributors
-- Myat Shoon Lei - 6511333
-- Yoon Waddy Myo Myint - 6511566
-- Su Myat Noe - 6511123
+- Myat Shoon Lei ( 6511333 )
+- Yoon Waddy Myo Myint ( 6511566 )
+- Su Myat Noe ( 6511123 )
