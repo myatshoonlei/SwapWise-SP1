@@ -26,7 +26,7 @@ npx expo start
 
 ## 📱 APK Download  
 You can directly download the **APK** from this link:  
-📥 [Download SwapWise APK](YOUR_APK_DOWNLOAD_LINK_HERE)
+📥 [Download SwapWise APK] (https://drive.google.com/file/d/18MuoVflwoCze_l47GFF-EaHCgJqCjyPR/view)
 
 ---
 
