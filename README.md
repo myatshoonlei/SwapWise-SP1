@@ -38,6 +38,8 @@ npx expo start --clear
 You can directly download the **APK** from this link:  
 📥 [Download SwapWise APK](https://drive.google.com/file/d/18MuoVflwoCze_l47GFF-EaHCgJqCjyPR/view)
 
+**Note:** Please make sure you are downloading the app from an **Android device**, as this SwapWise APK file is not supported on iOS.
+
 ---
 
 ## 🔧 Configuration
